@@ -56,14 +56,19 @@ Key Features:
 
 ### App Screenshots:
 Screenshot 1: MainActivity.kt
+![Layout 1](https://github.com/user-attachments/assets/de3c1863-fcff-4c63-86b8-4fd7097ddcf6)
 
 Screenshot 2: FlashActivity.kt
+![Layout 2](https://github.com/user-attachments/assets/e03b3ac5-a2ee-4281-bb0e-975198328516)
 
 Screenshot 3: FlashActivity.kt
+![Layout 3](https://github.com/user-attachments/assets/ad6e0f3e-fe56-4b9e-80a2-2dfd8eaa63b8)
 
 Screenshot 4: ScoreActivity.kt
+![Layout  4](https://github.com/user-attachments/assets/441ba09f-50c9-4eaf-9386-718e72432f71)
 
 Screenshot 5: ReviewActivity.kt
+![Layout 5](https://github.com/user-attachments/assets/39b8076f-e66a-48f0-986f-d7237ee12e98)
 
 
 Video Demo:
