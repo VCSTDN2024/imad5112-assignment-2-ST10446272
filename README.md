@@ -15,8 +15,6 @@ The Study App is a mobile application developed as part of an assignment in the 
 which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
 
-3. App Purpose and Features
----------------------------
 ## Purpose and Features
 
 ### FlashActivity.kt – Quiz 
@@ -58,24 +56,20 @@ Key Features:
 
 ### App Screenshots:
 Screenshot 1: MainActivity.kt
-![Screenshot 2025-04-01 175545](https://github.com/user-attachments/assets/cded7393-bfe5-45be-9105-c979afc34254)
 
 Screenshot 2: FlashActivity.kt
-![Screenshot 2025-04-01 175606](https://github.com/user-attachments/assets/8fdc96b4-5925-49f6-9599-d9bbfcf27a12)
 
-Screenshot 3: ScoreActivity.kt
-![Screenshot 2025-04-01 175633](https://github.com/user-attachments/assets/16a654a0-97e9-492d-9127-aadae30616bb)
+Screenshot 3: FlashActivity.kt
 
-Screenshot 4: ReviewActivity.kt
-![Screenshot 2025-04-01 175659](https://github.com/user-attachments/assets/2e040921-60d2-4d0d-9a15-1e91797ace10)
+Screenshot 4: ScoreActivity.kt
+
+Screenshot 5: ReviewActivity.kt
 
 
 Video Demo:
 A video showcasing the app's functionality can be viewed here: https://youtu.be/t0ZqomGlEtM .
 
 
-5. RoadMap and Flow
--------------
 ## RoadMap
 
 ### App Overview: 
@@ -100,9 +94,9 @@ Press Exit to close the app.
 
 ## References
 
-1. Reference 1: https://www.delish.com/cooking/recipe-ideas/g36890133/healthy-meal-prep-recipes/ 
-2. Reference 2: https://insanelygoodrecipes.com/after-school-snacks/
-3. Reference 3: https://www.allrecipes.com/gallery/breakfast-finger-foods/
+1. Reference 1: https://za.pinterest.com/pin/1095500678113315315/ 
+2. Reference 2: https://www.thenarratologist.com/best-sneaker-trivia-questions-and-answers/
+
 
 
 
