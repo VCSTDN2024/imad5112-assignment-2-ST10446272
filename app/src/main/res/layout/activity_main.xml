@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://za.pinterest.com/pin/1095500678113315315/
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/download"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvWelcomeText"
+        android:layout_width="match_parent"
+        android:layout_height="156dp"
+        android:layout_marginTop="20dp"
+        android:text="Welcome to Sneaker Trivia"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="60dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/tvAppDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="“For the Love of the Sole.\n Step into the world where culture, history, and hype collide. Whether you're a seasoned collector, a streetwear junkie, or just hereto test your knowledge, you’ve found your home base. Challenge yourself with trivia spanninglegendary drops, iconic silhouettes, rare collabs, and the stories behind the sneakers that changed the game.Climb the leaderboard, earn bragging rights, and show the world you really know your soles."
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/black"
+        android:text="Start" />
+
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:backgroundTint="@color/black"
+        android:text="Exit" />
+</LinearLayout>
